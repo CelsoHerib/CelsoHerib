@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Celso Herib
 I'm Celso from Argentina, a self-taught web developer. I enjoy learning languages, frameworks, and other tools but without a doubt the greatest pleasure is putting them into practice. I also enjoy backend development, but don't tell anyone!  🤫​
 
-## Skills and Experience
+## Skills
 * ⚛ React
 * 🅰️ Angular
 * 🇻 Vue js
