@@ -5,8 +5,10 @@ I'm Celso from Argentina, a self-taught web developer. I enjoy learning language
 
 ## Skills and Experience
 * ⚛ React
-* [![angular](https://cdn3.emoji.gg/emojis/6573_angular.png)](https://emoji.gg/emoji/6573_angular)
+* 🅰️ Angular
+* 🇻 Vue js
 * 💻 HTML, CSS, JS
+
 
 
 - 🔭 I’m currently working on this page. 
