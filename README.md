@@ -1,4 +1,4 @@
-![Logo](https://github.com/CelsoHerib/CelsoHerib/blob/main/logo_transparent.png)
+![Logo]([https://github.com/CelsoHerib/CelsoHerib/blob/main/logo_transparent.png](https://github.com/CelsoHerib/CelsoHerib/blob/main/logo_transparent-edit-20240909225654.jpg))
 ![](https://media.licdn.com/dms/image/D4D16AQH5tIBLPAXXUQ/profile-displaybackgroundimage-shrink_350_1400/0/1700950129633?e=1714608000&v=beta&t=ewlmFFLvNlkQfjk0At4bueCLzfoDDAwP_eqMlznrgsw)
 
 ### Hello everyone 👋, welcome to my world!
