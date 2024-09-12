@@ -46,10 +46,10 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
 
 #
 <p>
-   <a href="https://github.com/CelsoHerib" target="_blank" style="a:hover{color:black}">
+   <a href="https://github.com/CelsoHerib" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">
    </a>
- <a href="www.instagram.com/celsoherib/" target="_blank" style=":hover{color:red}">
+ <a href="https://www.instagram.com/celsoherib/" target="_blank">
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' target="_blank">
  </a>
  <a href="https://www.linkedin.com/in/celsoherib//" target="_blank">
