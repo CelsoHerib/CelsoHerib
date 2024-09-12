@@ -44,19 +44,19 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
-#
+# 🌐 Connect with Me
 <p>
    <a href="https://github.com/CelsoHerib" target="_blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">
    </a>
- <a href="https://www.instagram.com/celsoherib/" target="_blank">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' target="_blank">
+ <a href="https://www.instagram.com/celsoherib/">
+  <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/>
  </a>
  <a href="https://www.linkedin.com/in/celsoherib//" target="_blank">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+<img src='https://img.icons8.com/color/96/000000/linkedin.png' alt='linkedin'>
  </a>
- <a href="https://twitter.com/CelsoHerib" target="_blank" style="color:red">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="cursor: pointer">
+ <a href="https://twitter.com/CelsoHerib" target="_blank">
+  <img src='https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000' alt=' X (twitter)' >
  </a>
 </p>
 
