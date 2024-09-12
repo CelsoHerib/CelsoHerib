@@ -5,10 +5,9 @@
 I'm  from Argentina, a self-taught web developer. I enjoy learning languages, frameworks, and other tools but without a doubt the greatest pleasure is putting them into practice. I also enjoy backend development, but don't tell anyone!  🤫​
 
 # Skills
-* ⚛ React
-* 🅰️ Angular
-* 🇻 Vue js
-* 💻 HTML, CSS, JS
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+</p>
 
 
 
