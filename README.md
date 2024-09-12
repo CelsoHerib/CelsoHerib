@@ -44,10 +44,9 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
-
 #
 <p>
-   <a href="https://github.com/CelsoHerib" target="_blank">
+   <a href="https://github.com/CelsoHerib" target="_blank" style=":hover">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">
    </a>
  <a href="www.instagram.com/celsoherib//" target="_blank">
@@ -63,4 +62,7 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
 
 
 
- I’m currently working on this page. 
+<p>
+ <span>I’m currently working on this page. </span>                       
+ <span>&copy; 2024 | CelsoHerib</span>
+</p>
