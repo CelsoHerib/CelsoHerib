@@ -56,7 +56,8 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
  <a href="https://www.linkedin.com/in/celsoherib//" target="_blank">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
  </a>
+ <a href="https://twitter.com/CelsoHerib" target="_blank">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+ </a>
 </p>
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/celsoherib//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/CelsoHerib)  
 
