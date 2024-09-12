@@ -4,9 +4,13 @@
 ## Hello everyone 👋, welcome to my world!
 I'm  from Argentina, a self-taught web developer. I enjoy learning languages, frameworks, and other tools but without a doubt the greatest pleasure is putting them into practice. I also enjoy backend development, but don't tell anyone!  🤫​
 
-# Skills
+# 🚀 Skills
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+ <a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+ </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+  </a>
 </p>
 
 
