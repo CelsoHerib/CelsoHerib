@@ -58,6 +58,9 @@ I'm  from Argentina, a self-taught web developer. I enjoy learning languages, fr
  <a href="https://twitter.com/CelsoHerib" target="_blank">
   <img src='https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000' alt=' X (twitter)' >
  </a>
+ <a href="https://mastodon.social/@celsoherib" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=ITKS1olYDyMw&format=png&color=000000" alt="mastodom">
+ </a>
  <a href="https://celsoherib.w3spaces.com/#">
   <img src="https://img.icons8.com/?size=100&id=50085&format=png&color=000000" alt="www">
  </a>
